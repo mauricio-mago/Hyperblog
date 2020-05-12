@@ -56,3 +56,12 @@ padding: 0 0 0 1em;
 font-weight: normal;
 font-size: 0.8em;
 }
+
+#footer
+{
+background: #777;
+color: white;
+padding: 0.5em;
+text-align: center;
+
+}
