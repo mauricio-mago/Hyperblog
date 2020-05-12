@@ -20,7 +20,7 @@ body
     background: #1e1f24;
     text-align: center;
     font-family:"Arial";
-    color:blue;
+    color: white;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -64,12 +64,6 @@ font-weight: normal;
 font-size: 0.8em;
 }
 
-<<<<<<< HEAD
-#post
-{
-background: white;
-padding: 1em;
-=======
 #footer
 {
 background: #777;
@@ -77,5 +71,4 @@ color: white;
 padding: 0.5em;
 text-align: center;
 
->>>>>>> footer
 }
