@@ -17,6 +17,7 @@ font-size: 0.8em;
 
 body 
 {
+    background: #1e1f24;
     text-align: center;
     font-family:"Arial";
     color:blue;
@@ -50,9 +51,21 @@ margin: 0;
 padding: 0.5em;
 }
 
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #cabecera stagline 
 {
 padding: 0 0 0 1em;
 font-weight: normal;
 font-size: 0.8em;
+}
+
+#post
+{
+background: white;
+padding: 1em;
 }
