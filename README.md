@@ -13,5 +13,8 @@ Un blog increÃ­ble para el[ curso de Git y Github](https://platzi.com/cursos/g
 * Las personalidades mÃºltiples de Freddy
 creado por magico pora mi 
 
+es una forma de hacer commit en una rama
+para traerla en especial
+disponible para un cherry
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
